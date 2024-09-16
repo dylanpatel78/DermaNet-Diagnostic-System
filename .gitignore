@@ -34,3 +34,36 @@ wheels/
 
 # VS Code
 .vscode/
+
+
+# Node modules
+my-app/node_modules/
+
+# Build output
+my-app/build/
+
+# Others
+.DS_Store
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.dll
+*.ini
+*.jpg
+*.png
+*.gif
+*.jpeg
+*.svg
+*.ico
+*.mov
+*.mp4
+*.wav
+*.mp3
+*.webm
+*.ttf
+*.woff
+*.woff2
+*.eot
