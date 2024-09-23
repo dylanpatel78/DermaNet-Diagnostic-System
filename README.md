@@ -1,5 +1,5 @@
-# DermIdentify: Skin Condition Detection using Machine Learning
-Welcome to DermIdentify, a machine learning-based web application designed to assist in detecting skin conditions from dermatology images. This project uses a Convolutional Neural Network (CNN) to classify skin conditions, focusing on detecting common lesions such as melanoma.
+# DermaNet Diagnostic System: Skin Condition Detection using Machine Learning
+Welcome to DermaNet, a machine learning-based web application designed to assist in detecting skin conditions from dermatology images. This project uses a Convolutional Neural Network (CNN) to classify skin conditions, focusing on detecting common lesions such as melanoma.
 
 This project was built using TensorFlow, Keras, OpenCV, and deployed via a simple Flask backend. The web interface is developed using React, and the entire project is hosted via GitHub Pages.
 
