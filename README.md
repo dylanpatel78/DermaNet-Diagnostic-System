@@ -4,7 +4,7 @@ Welcome to DermaNet, a machine learning-based web application designed to assist
 This project was built using TensorFlow, Keras, OpenCV, and deployed via a simple Flask backend. The web interface is developed using React, and the entire project is hosted via GitHub Pages.
 
 ## Project Overview
-DermIdentify is a complete full-stack project that integrates:
+DermaNet is a complete full-stack project that integrates:
 
 * React frontend to upload images for analysis
 * Flask backend to process and predict skin conditions
